@@ -34,14 +34,17 @@ p{
 .submit{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    font-weight: 900;
+    font-weight: 700;
     text-transform: uppercase;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 5px;
     border: none;
     background-color: darkorange;
+    text-shadow: 1px 1px 5px black;
+}
+a{
+    text-decoration: none;
     color: white;
-    text-shadow: 1px 1px 3px black;
 }
 .submit:hover{
     background-color: orange;
